@@ -1,0 +1,9 @@
+@value colors: "./colors.css";
+@value gray0, gray1, gray2, gray3, gray4, gray5, gray6, gray7 from colors;
+
+body {
+    background-color: gray3;
+}
+.title {
+    color: gray5;
+}
